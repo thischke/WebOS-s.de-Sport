@@ -1,9 +1,9 @@
 {
 	"id": "com.thischke.sdesport",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"vendor": "thischke",
 	"type": "web",
 	"main": "index.html",
-	"title": "s.de RSS",
+	"title": "s.de Sport RSS",
 	"icon": "icon.png"
 }
